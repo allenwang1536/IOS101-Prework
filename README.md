@@ -42,7 +42,7 @@ There was a little difficulty linking the button to code, but I was able to figu
 
 ## License
 
-    Copyright [2024] [Allen Wang]
+    Copyright 2024 Allen Wang
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
