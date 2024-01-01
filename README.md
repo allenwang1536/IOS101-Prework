@@ -1,8 +1,8 @@
-# Prework - *Name of App Here*
+# Prework - *Background Changer*
 
 Submitted by: **Allen Wang**
 
-**IOS101-Prework** is an app that allows you to change the color of the background by clicking a button
+**Background Changer** is an app that allows you to change the color of the background by clicking a button
 
 Time spent: **2** hours spent in total
 
@@ -15,9 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-![](https://i.imgur.com/2rOYi8R.mp4)
+[Click here to view the video](https://i.imgur.com/2rOYi8R.mp4)
 
 ## App Brainstorming (Step 4)
 
