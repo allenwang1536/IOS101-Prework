@@ -38,11 +38,11 @@ I would like to build a gym workout social media app. It would consist of a feed
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+There was a little difficulty linking the button to code, but I was able to figure that out after consulting documentation.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Allen Wang]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
